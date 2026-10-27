@@ -1,0 +1,1 @@
+﻿PASS: renderer, native controls, four-sample cycle, unchanged coordinate, repeat, delay, empty, freeze, initialization, shutdown.
